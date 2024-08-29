@@ -1,6 +1,8 @@
 ---
-title: Selected Publication
+title: 
 ---
+
+## Selected Publication
 
 ---
 - **1**: Huang, Linqing, and Gongshen Liu. "Convolutional Feature Aggregation Network with Self-supervised Learning and Decision Fusion for SAR Target Recognition." IEEE Transactions on Instrumentation and Measurement (2024).
@@ -15,7 +17,9 @@ title: Selected Publication
 - **10**: Wang, Can, Chi-Hung Chi, Lina Yao, Alan Wee-Chung Liew, and Hong Shen. "Interdependence analysis on heterogeneous data via behavior interior dimensions." Knowledge-Based Systems 279 (2023): 110893.
 - **11**: Luong, Anh Vu, Tien Thanh Nguyen, Kate Han, Trung Hieu Vu, John McCall, and Alan Wee-Chung Liew. "DEFEG: Deep Ensemble with Weighted Feature Generation." Knowledge-Based Systems 275 (2023): 110691.
 - **12**: L. Yang, S. Wang and A. W. -C. Liew, "Fine-Grained Lip Image Segmentation Using Fuzzy Logic and Graph Reasoning," in IEEE Transactions on Fuzzy Systems, vol. 32, no. 2, pp. 349-359, Feb. 2024, doi: 10.1109/TFUZZ.2023.3298323. 
-- **13**: 
+- **13**: Zhu, Yanming, and Erik Meijering. "Automatic improvement of deep learning-based cell segmentation in time-lapse microscopy by neural architecture search." Bioinformatics 37, no. 24 (2021): 4844-4850.
+- **14**: L. Huang, W. Zhao, Y. Liu, D. Yang, A. W. -C. Liew and Y. You, "An Evidential Multi-Target Domain Adaptation Method Based on Weighted Fusion for Cross-Domain Pattern Classification," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3275759.
+- **15**: Xuefei Yin, Yanming Zhu, and Jiankun Hu. 2021. A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions. ACM Comput. Surv. 54, 6, Article 131 (July 2022), 36 pages. https://doi.org/10.1145/3460427
 
 ---
 
