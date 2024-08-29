@@ -1,114 +1,39 @@
 ---
-title: Joining us
+
 ---
 
+## Join the AI4Health Lab at Griffith University!
 
-## How can I join the RECON community?
+Location: Griffith University, Gold Coast Campus, Queensland, Australia
 
-There are multiple ways to get involved with RECON
+### About Us:
 
-- Subscribe our *email announcements list* to keep up with our activities and learn
-  about development, training, or deployment opportunities. Sign up with the
-  [form below](#online-application-form).
-- Join our [*Slack workspace*](https://reconhub.slack.com/) to chat with others involved in RECON activities
-  and use RECON tools.
-- Join as a *member*, who actively contributes to the development of analytics
-  resources for RECON's areas of interest; this is typically more involved but
-  also offers advantages reserved to members; see the *Becoming a member*
-  section below
-
-## Becoming a member
-
-### Who are our members?
-
-[Our members](../peoplenew) form the backbone of RECON. They are actively involved in the
-development of analytics tools, contribute free and open training material, run
-our workshops, teach at our short courses, or are deployed to the field where
-they battle-test our resources to inform the response to disease outbreaks,
-health emergencies, and humanitarian crises. Through votes at our annual General
-Assembly, they can shape activities of RECON, and are also elligible for roles
-in the Executive Board. 
-
-
-### Why become a member?
-
-Members benefit from a number of advantages; they can:
-
-- attend general assemblies to shape the activities of RECON
-- have free access to the RECON mailing lists and forums
-- advertise their work, when in line with the remit of RECON, on the association
-  media, including newsletters, mailing lists, discussion forums, blogs and
-  websites
-- possess a confidential list of other RECON members to facilitate networking
-  within the association
-- attend meetings not otherwise open to the public, such as internal training
-  workshops, hackathons and retreats organised by the association
-- typically get a discount on RECON events where a registration fee applies
-- apply for, and benefit from internal resources of RECON (e.g. funding,
-  equipment)
-- (contributing members) vote at general assemblies to shape the activities of RECON
-- (contributing members) be candidates to any post of the executive board during its election
-
-Benefits to members are formally defined in *Article 5.4* of our 
-[statutes](documents/statutes_en_1.2.pdf)
-
-
-
-### How to become a member?
-
-RECON aims to gather a community of people actively involved in the development
-of free analytics resources to inform the response to disease outbreaks, health
-emergencies, and humanitarian crises. Beyond the development of analytics tools,
-this also includes people contributing to training and capacity building, and
-people battle-testing our resources in the field.
-
-Anyone can apply to become a *regular member* of RECON, in order to be involved in
-RECON projects and events. *Contributing members* need to have made a contribution
-in any of the areas of RECON activities including software development, training
-and capacity building, or field deployment. See 
-[our statutes](https://www.repidemicsconsortium.org/documents/statutes_en_1.2.pdf) 
-for more details on contributions; below is a quick summary:
-
-- *software development*: you made a substantial contribution to RECON packages
-  (hosted at https://github.com/reconhub), either through new functions, new
-  automated tests, documented datasets, or by contributing new documentation
-  
-- *training and capacity building*: you contributed training material,
-  typically on https://reconlearn.org, taught at one of our short courses, or
-  co-organised a RECON workshop or a similar event using RECON materials
-  
-- *field deployment*: you battle-tested our resources during a deployment *in
-  country* to respond to a disease outbreak, a health emergency, or a
-  humanitarian crisis
-
-### Online application form
-
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrliwOM74ErxmR4D?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="1423" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-## Data privacy statement
-
-In relation to the
-[General Data Protection Regulation (GDPR)](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/),
-we hereby provide you with information regarding the data you provide while
-joining RECON as a member. In short:
-
-- '*your data*' refers to the information you provide when sending a request to
-  become a RECON member using the form linked above, including the profile
-  picture displayed online; when filling in the form, it will be made clear
-  which data becomes public or remains private; private data will typically be
-  your contact details
-  
-- your data will not be used for any commercial purpose
-
-- the public part of your data will be used to generate your
-  [public profile](../people) on the RECON
-  website; this does not include personal contact information
-
-- your private data may be made available to other RECON members; when filling
-  in the form, you will be asked if you wish for this data to be made available
-
-- you can review, amend, or remove your data by [contacting us](../contact) via
-  email
+The AI4Health Lab is at the forefront of pioneering research in the application of AI to 
+healthcare. Our lab specializes in areas such as medical image analysis, computational pathology, computational neuroscience, computational microscopy, trustworthy AI, and multimodal data integration. We are dedicated to advancing AI technologies that can transform healthcare delivery, diagnostics, and treatment.
   
 
+### Research Areas:
+
+We are seeking highly motivated PhD candidates to join our dynamic team. Successful applicants will have the opportunity to work on cutting-edge projects in one or more of the following areas:
+
+- Medical Image Analysis: Developing AI algorithms for enhanced diagnostic accuracy in medical imaging.
+- Computational Pathology: Creating deep learning models for tumor detection, biomarker analysis, and survival 
+  prediction from histopathology images.
+- Computational Neuroscience: Investigating brain functionality and disease progression through AI-driven analysis of 
+  neuroimaging data.
+- Computational Microscopy: Enhancing microscopic imaging techniques with AI to gain deeper insights into cellular 
+  structures and biological processes.
+- Trustworthy AI for Healthcare: Ensuring AI models are transparent, fair, and robust for clinical applications.
+Multimodal Data Integration: Integrating diverse data types to provide comprehensive analyses of complex biomedical 
+  data.
+
+### How to Apply:
+
+Interested candidates should submit the following documents:
+
+- Cover Letter: Describing your research interests and why you are interested in joining the AI4Health Lab.
+- CV: Including your academic background, research experience, and publications (if any).
+- Transcripts: Copies of your academic transcripts.
+- References: Contact information for at least two academic referees.
+Please send your application to [yanming.zhu@griffith.edu.au](yanming.zhu@griffith.edu.au) with the subject line 
+  "PhD Application - AI4Health Lab".
