@@ -15,7 +15,7 @@ navbar-links:
   Publication: "publication"
   Events: "events"
   contact: "contact"
-  #Contact: "contact"
+  Join Us: "join"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
