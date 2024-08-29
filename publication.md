@@ -41,6 +41,7 @@ Decision Fusion for SAR Target Recognition." IEEE Transactions on Instrumentatio
 1. B. S. Y. Lam and A. W. -C. Liew, "A Fast Binary Quadratic Programming Solver Based on Stochastic Neighborhood Search," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 1, pp. 32-49, 1 Jan. 2022, doi: 10.1109/TPAMI.2020.3010811.
 2. Tchetchenian, A., Zhu, Y., Zhang, F. et al. A comparison of manual and automated neural architecture search for white matter tract segmentation. Sci Rep 13, 1617 (2023).
 3. X. Yin, S. Wang, Y. Zhu and J. Hu, "A Novel Length-Flexible Lightweight Cancelable Fingerprint Template for Privacy-Preserving Authentication Systems in Resource-Constrained IoT Applications," in IEEE Internet of Things Journal, vol. 10, no. 1, pp. 877-892, 1 Jan.1, 2023
+4. K. Han, T. T. Nguyen, V. A. Vu, A. W. -C. Liew, T. Dang and T. T. Nguyen, "VISTA: A Variable Length Genetic Algorithm and LSTM-Based Surrogate Assisted Ensemble Selection algorithm in Multiple Layers Ensemble System," 2024 IEEE Congress on Evolutionary Computation (CEC), Yokohama, Japan, 2024, pp. 1-9, doi: 10.1109/CEC60901.2024.10612029.
 
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: 
 ---
 
 ## AI4Health Lab
@@ -49,7 +48,7 @@ function setup() {
 
 function draw() {
   clear(); 
-translate(0, -80);
+translate(0, -35);
   for (let i = 0; i < sections.length; i++) {
     let isHovered = (i === hoveredIndex); 
     let scaleFactor = isHovered ? 1.2 : 1.0;

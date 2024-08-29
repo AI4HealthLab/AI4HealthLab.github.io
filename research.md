@@ -1,6 +1,8 @@
 ---
-title: Research Topics
+title:
 ---
+
+## Research
 
 ## 1. [Computational histopathology](../c_hist)
 Our research at the AI4Health Lab primarily focuses on developing advanced deep learning models to address the significant challenges posed by the inherent limitations of histopathology data. One of the key challenges is the small size of training datasets, which can hinder the performance and generalization of AI models. To overcome this, we explore innovative techniques such as transfer learning, data augmentation, and generative models to maximize the utility of limited data.
