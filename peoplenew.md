@@ -25,7 +25,7 @@ Academic-Staff:
     website: https://experts.griffith.edu.au/48529-xingshuai-dong/about
     email: xingshuai.dong@griffith.edu
     
-people-list:
+student-list-1:
   - name: Getamesay Dagnaw
     img: /img/people/geta.jfif
     desc: 03/2024
@@ -43,18 +43,19 @@ people-list:
     desc: 05/2024
 #    website: https://scholar.google.com/citations?user=hysM12MAAAAJ&hl=en
     email: gmuhammadasif.hasan@griffithuni.edu.au
+
+student-list-2:    
+  - name: Adam Wang
+    img: /img/people/adam.png
+    desc: 08/2024
+#    website: https://scholar.google.com/citations?user=hysM12MAAAAJ&hl=en
+    email: adam.wang@griffithuni.edu.au
     
   - name: Xiang Gao
     img: /img/people/xiangpng.png
     desc: 09/2024
 #    website: https://scholar.google.com/citations?user=hysM12MAAAAJ&hl=en
     email: xiang.gao@griffithuni.edu.au
-    
-  - name: Adam Wang
-    img: /img/people/adam.png
-    desc: 08/2024
-#    website: https://scholar.google.com/citations?user=hysM12MAAAAJ&hl=en
-    email: adam.wang@griffithuni.edu.au
     
 board-list:
   - name: Johnson Mak
@@ -77,7 +78,9 @@ board-list:
 {% include list-circles.html items=page.Academic-Staff %}
 
 ## PhD Students
-{% include list-circles.html items=page.people-list %}
+{% include list-circles.html items=page.student-list-1 %}
+<br>
+{% include list-circles.html items=page.student-list-2 %}
 
 ## Collaborators
 

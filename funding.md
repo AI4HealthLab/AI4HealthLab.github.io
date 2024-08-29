@@ -1,8 +1,7 @@
 ---
-title: Research Funding
-subtitle:
 ---
 
+## Research Funding
 ---
 - **1**: J Mak, AWC Liew: “Unmask HIV latency through disruption of HIV synapses”, NHMRC Ideas Grant, 2023-26, $1.2M
 
@@ -22,4 +21,5 @@ subtitle:
   Infrastructure Program, 2024, $300K
 
 - **7**：Y Zhu, X Yin, H Tian, A Liew; National Industry PhD Program, 2023, $864K
+
 ---

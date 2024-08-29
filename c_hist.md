@@ -1,7 +1,9 @@
 ---
-title: Computational histopathology
+title: 
 subtitle: 
 ---
+
+## Computational histopathology
 
 Computational histopathology represents a critical frontier in the use of AI for cancer diagnosis and prognosis, focusing on the extraction of phenotypic information from histopathology images. This field encompasses a range of tasks, including cell nuclei segmentation, tumor detection, biomarker analysis, and survival prediction, all of which play a vital role in understanding the morphological and molecular characteristics of cancer.
 

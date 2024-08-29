@@ -16,5 +16,6 @@ title: Selected Publication
 - **11**: Luong, Anh Vu, Tien Thanh Nguyen, Kate Han, Trung Hieu Vu, John McCall, and Alan Wee-Chung Liew. "DEFEG: Deep Ensemble with Weighted Feature Generation." Knowledge-Based Systems 275 (2023): 110691.
 - **12**: L. Yang, S. Wang and A. W. -C. Liew, "Fine-Grained Lip Image Segmentation Using Fuzzy Logic and Graph Reasoning," in IEEE Transactions on Fuzzy Systems, vol. 32, no. 2, pp. 349-359, Feb. 2024, doi: 10.1109/TFUZZ.2023.3298323. 
 - **13**: 
+
 ---
 
