@@ -1,15 +1,10 @@
 ---
 title: Research Topics
-
-list1:
-  - name: epicontacts
-    desc: Handling, visualisation and analysis of epidemiological contacts.
-    img: https://raw.githubusercontent.com/reconhub/epicontacts/master/logo/logo.png
 ---
 
-## 1. [Computational histopathology](../c_hist) [](https://raw.githubusercontent.com/reconhub/epicontacts/master/logo/logo.png)
-
+## 1. [Computational histopathology](../c_hist)
 Our research at the AI4Health Lab primarily focuses on developing advanced deep learning models to address the significant challenges posed by the inherent limitations of histopathology data. One of the key challenges is the small size of training datasets, which can hinder the performance and generalization of AI models. To overcome this, we explore innovative techniques such as transfer learning, data augmentation, and generative models to maximize the utility of limited data.
+
 
 ## 2. [Computational neuroscience](../c_neru)
 Our research in computational neuroscience at the AI4Health Lab is centered on three key areas: single neuron reconstruction from light microscopy images, brain tumor and lesion segmentation in Magnetic Resonance Imaging (MRI), and tractography analysis in Diffusion Tensor Imaging (DTI). Each of these areas presents unique challenges that require sophisticated, domain-inspired deep learning models tailored to address specific neurological problems.
