@@ -1,5 +1,4 @@
 ---
-
 ---
 
 ## Multimodal Data Integration

@@ -1,6 +1,4 @@
 ---
-title: 
-subtitle: 
 ---
 
 ## Computational histopathology

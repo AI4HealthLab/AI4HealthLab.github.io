@@ -1,5 +1,4 @@
 ---
-
 ---
 
 ## Trustworthy AI for Healthcare

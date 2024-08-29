@@ -1,5 +1,4 @@
 ---
-
 ---
 
 ## Join the AI4Health Lab at Griffith University!
