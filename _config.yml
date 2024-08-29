@@ -4,8 +4,8 @@ url: "http://AI4HealthLab.github.io"
 baseurl: ""
 
 title: AI4Health
-description: We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software
-
+description:
+  
 # List of links in the navigation bar
 navbar-links:
   Home: ""
