@@ -1,31 +1,21 @@
 ---
-title: Contact us
 ---
 
-RECON is headed by an Executive Board. The right person to contact depends on
-the nature of your enquiry. Remember that if you just want to have a chat with
-members of our community, you can freely join our slack organisation: see our
-[forum](../forum) page for more information. Alternatively, for announcements,
-job ads etc. consider sending us an email at admin@repidemicsconsortium.org to be added to our mailing list. For everything else, see below.
+## Contact us
+Welcome to the official website of the AI4Health Lab! Learn more about our research and latest updates.
 
+If you need to get in touch with us, please use the following contact information:
 
-## Specific enquiries
+---
 
-Our *coordinators* are our focal points for some of our main activities. Contact
-them in priority if your enquiry relates to one of these topics:
+- **Email**: [contact@ai4healthlab.com](a.liew@griffith.edu.au)  
+- **Address**: School of Information and Communication Technology, Griffith University, Gold Coast, QLD, Australia  
 
-- *field deployment*: [Thibaut Jombart](mailto:thibautjombart@gmail.com)
-
-- *software development*: [Noam Ross](mailto:noam.ross@gmail.com) or [Thibaut Jombart](mailto:thibautjombart@gmail.com)
-
-- *training and capacity building*: [Janetta Skarp](mailto:janetta.skarp13@imperial.ac.uk)
-
-
+---
 
 ## General enquiries
 
-For all other enquiries, including questions regarding membership, funding, or
-donations, please send an email to our [generic address](mailto:admin@repidemicsconsortium.org) 
+For all other enquiries, please send an email to our [generic address](a.liew@griffith.edu.au) 
 or fill out the form below :
 
 <form action="https://formspree.io/repidemicsconsortium@gmail.com" method="POST" class="form" id="contact-form">

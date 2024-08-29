@@ -51,7 +51,7 @@ people-list:
     email: xiang.gao@griffithuni.edu.au
     
   - name: Adam Wang
-    img: /img/people/anonymous.jpg
+    img: /img/people/adam.png
     desc: 08/2024
 #    website: https://scholar.google.com/citations?user=hysM12MAAAAJ&hl=en
     email: adam.wang@griffithuni.edu.au
