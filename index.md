@@ -1,9 +1,10 @@
 ---
-title: AI4Health Lab
+title: 
 ---
 
-The AI4Health Lab, located in the School of Information, Communication and Technology at Griffith University, stands at the forefront of AI applications in the biomedical and health fields. Committed to excellence and innovation, we strive to address major challenges in contemporary medicine and public health through the deep integration of AI and health sciences. Our research spans computational pathology, computational neuroscience, computational microscopy imaging, deep learning paradigms, bio-health multimodal data integration, and the development of trustworthy health AI. We are dedicated to tackling core challenges in precision and intelligent medicine, enhancing the accuracy of disease diagnosis, optimizing personalized treatment plans, and advancing the fairness and explainability of medical decisions. With our interdisciplinary research team and exceptional innovation capabilities, the AI4Health Lab aims to become a global leader in AI and health research. We believe that artificial intelligence will reshape the future of healthcare, and we are committed to leading this transformation, ushering in a new era of technological advancement and human well-being.
+## AI4Health Lab
 
+The AI4Health Lab, located in the School of Information, Communication and Technology at Griffith University, stands at the forefront of AI applications in the biomedical and health fields. Committed to excellence and innovation, we strive to address major challenges in contemporary medicine and public health through the deep integration of AI and health sciences. Our research spans computational pathology, computational neuroscience, computational microscopy imaging, deep learning paradigms, bio-health multimodal data integration, and the development of trustworthy health AI. We are dedicated to tackling core challenges in precision and intelligent medicine, enhancing the accuracy of disease diagnosis, optimizing personalized treatment plans, and advancing the fairness and explainability of medical decisions. With our interdisciplinary research team and exceptional innovation capabilities, the AI4Health Lab aims to become a global leader in AI and health research. We believe that artificial intelligence will reshape the future of healthcare, and we are committed to leading this transformation, ushering in a new era of technological advancement and human well-being.
 
 
 <div id="p5-sketch"></div>
@@ -48,6 +49,7 @@ function setup() {
 
 function draw() {
   clear(); 
+translate(0, -80);
   for (let i = 0; i < sections.length; i++) {
     let isHovered = (i === hoveredIndex); 
     let scaleFactor = isHovered ? 1.2 : 1.0;

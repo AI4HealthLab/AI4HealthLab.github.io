@@ -1,8 +1,13 @@
 ---
 title: Research Topics
+
+list1:
+  - name: epicontacts
+    desc: Handling, visualisation and analysis of epidemiological contacts.
+    img: https://raw.githubusercontent.com/reconhub/epicontacts/master/logo/logo.png
 ---
 
-## 1. [Computational histopathology](../c_hist)
+## 1. [Computational histopathology](../c_hist) [](https://raw.githubusercontent.com/reconhub/epicontacts/master/logo/logo.png)
 
 Our research at the AI4Health Lab primarily focuses on developing advanced deep learning models to address the significant challenges posed by the inherent limitations of histopathology data. One of the key challenges is the small size of training datasets, which can hinder the performance and generalization of AI models. To overcome this, we explore innovative techniques such as transfer learning, data augmentation, and generative models to maximize the utility of limited data.
 
