@@ -20,6 +20,6 @@
 - **6**: AWC Liew, S Pan, Y Zhu, L Zhang, J Zhou: “High-end GPU Server for AI Research”, Griffith Research 
   Infrastructure Program, 2024, $300K
 
-- **7**：Y Zhu, X Yin, H Tian, A Liew; National Industry PhD Program, 2023, $864K
+- **7**：H Tian, A Liew, Y Zhu, X Yin; National Industry PhD Program, 2023, $864K
 
 ---
