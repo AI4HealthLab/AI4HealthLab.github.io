@@ -8,7 +8,7 @@ admin-list:
     desc: Professor of AI & Biomedical Informatics
     website: https://experts.griffith.edu.au/7401-alan-weechung-liew
     email: a.liew@griffith.edu.au
-Academic-Staff:  
+Academic-Staff  
   - name: Yanming Zhu
     img: /img/people/yanming.jfif
     desc: Lecturer of Biomedical Image Computing
