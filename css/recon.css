@@ -8,3 +8,9 @@
 body {
 text-transform: none;
 }
+page-heading {
+    display: none;
+}
+h1 {
+    display: none;
+}
