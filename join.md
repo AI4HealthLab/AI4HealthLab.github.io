@@ -13,14 +13,14 @@ biomedical and health fields. Our lab specializes in developing computer vision,
 
 ### Research Topics:
 
-<span style="color:red"> **We are seeking highly motivated PhD Candidates to join our dynamic team. Candidates can choose from our current high-priority research topics listed below, or propose a topic that aligns with our broader research interests outlined above.** </span>
+<span style="color:red"> **We are seeking highly motivated PhD Candidates to join our dynamic team.** </span> Candidates can choose from our current high-priority research topics listed below, or propose a topic that aligns with our broader research interests outlined above.
 
--fMRI-based brain decoding
--Multimodal medical image fusion/analysis
--Cancer analysis in histopathology images
--Tractography analysis in diffusion tensor imaging
--Biomedical image generation, enhancement, and analysis
--Medical image-language/text models
+-fMRI-based brain decoding \  
+-Multimodal medical image fusion/analysis \  
+-Cancer analysis in histopathology images \  
+-Tractography analysis in diffusion tensor imaging \  
+-Biomedical image generation, enhancement, and analysis \  
+-Medical image-language/text models \  
 -Multimodal biomedical data fusion – e.g., pathological/radiological images with genomic/transcriptomic/proteomic data
 
 ### How to Apply:
