@@ -71,7 +71,7 @@ board-list:
 ---
 
 
-## Directors
+## Director
 {% include list-circles.html items=page.admin-list %}
 
 ## Academic Staff
