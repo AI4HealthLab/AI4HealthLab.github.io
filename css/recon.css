@@ -14,3 +14,8 @@ page-heading {
 h1 {
     display: none;
 }
+
+.container-fluid {
+	padding-right: 80px;
+	padding-left: 80px;
+}
