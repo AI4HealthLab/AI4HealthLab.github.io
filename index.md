@@ -5,8 +5,10 @@
 
 
 
-## AI4Health Lab
+<!-- --> ## AI4Health Lab
+![AI4Health logo](img/Lab_logo_v2.svg)
 
+![AI4Health logo](img/Lab_logo.svg)
 The AI4Health Lab, in the School of Information Communication and Technology at Griffith University, stands at the forefront of AI applications in the biomedical and health fields. Committed to excellence and innovation, we strive to address major challenges in contemporary medicine and public health through the deep integration of AI and health sciences. Our research spans computational pathology, computational neuroscience, computational microscopy imaging, bio-health multimodal data integration, deep learning paradigms, and trustworthy AI for healthcare. We are dedicated to tackling core challenges in precision and intelligent medicine, enhancing the accuracy of disease diagnosis, optimizing personalized treatment plans, and advancing the fairness and explainability of medical decisions. With our interdisciplinary research team and exceptional innovation capabilities, the AI4Health Lab aims to become a global leader in AI and health research. We believe that artificial intelligence will reshape the future of healthcare, and we are committed to leading this transformation, ushering in a new era of technological advancement and human well-being.
 
 
