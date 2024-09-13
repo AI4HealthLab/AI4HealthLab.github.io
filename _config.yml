@@ -9,7 +9,7 @@ description:
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Research: "research"
+  Research:
     - Computational histopathology: "c_hist"
     - Computational neuroscience: "c_neru"
     - Computational microscopy: "c_micro"
