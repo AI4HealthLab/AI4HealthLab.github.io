@@ -21,7 +21,7 @@ h1 {
 }
 
 .lab_logo {
-    margin-top: -20px;
-    height: 50px;  /* 设置固定高度 */
+    margin-top: -10px;
+    height: 40px;  /* 设置固定高度 */
     width: auto;    /* 宽度根据高度自动调整，保持比例 */
 }
