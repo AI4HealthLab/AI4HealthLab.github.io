@@ -16,6 +16,13 @@ let sections = [];
 let cx, cy, r1x, r1y, r2x, r2y, canvas;
 let hoveredIndex = -1;
 let w_width,w_height;
+let img;
+
+function preload() {
+  // Load the image
+  img = loadImage('/img/Lab_logo_v2.svg');
+}
+
 function setup() {
   w_width = windowWidth>1000 ? 1000 : windowWidth*0.8;
   w_height = windowHeight>600 ? 600 : windowHeight*0.8;
@@ -72,7 +79,8 @@ translate(0, -35);
   ellipse(cx, cy, r1x * 2, r1y * 2);
   fill(255);
   textSize(20);
-  text("AI4Health", cx, cy);
+  //text("AI4Health", cx, cy);
+  image(img, cx, cy, 100, 50);
 }
 
 function mouseMoved() {
