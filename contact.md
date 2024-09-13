@@ -8,7 +8,7 @@ If you need to get in touch with us, please use the following contact informatio
 
 ---
 
-- **Email**: [contact@ai4healthlab.com](a.liew@griffith.edu.au)  
+- **Email**: [yanming.zhu@griffith.edu.au](yanming.zhu@griffith.edu.au)  
 - **Address**: School of Information and Communication Technology, Griffith University, Gold Coast, QLD, Australia  
 
 ---
