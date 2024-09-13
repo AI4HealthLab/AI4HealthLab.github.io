@@ -20,7 +20,7 @@ let img_logo;
 
 function preload() {
   // Load the image
-  img_logo = loadImage('/img/Lab_logo.svg');
+  img_logo = loadImage('/img/Lab_logo_v2.svg');
 }
 
 function setup() {
