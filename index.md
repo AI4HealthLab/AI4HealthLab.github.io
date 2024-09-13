@@ -80,8 +80,16 @@ translate(0, -35);
   fill(255);
   textSize(20);
   //text("AI4Health", cx, cy);
-  imageMode(CENTER); 
-  image(img_logo, cx, cy, 200, 100);
+    // Calculate the aspect ratio of the image
+  let aspectRatio = img_logo.height / img_logo.width;
+
+  let imgWidth = 200;
+  // Set height based on the aspect ratio to maintain proportions
+  let imgHeight = imgWidth * aspectRatio;
+
+  // Replace text with the image, center it
+  imageMode(CENTER);
+  image(img_logo, cx, cy, imgWidth, imgHeight); // Draw the i
 }
 
 function mouseMoved() {
