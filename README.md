@@ -4,6 +4,8 @@
 
 For the website itself, go to: <http://www.repidemicsconsortium.org>
 
+https://github.com/reconhub/reconhub.github.io
+
 Please address requests via email to Thibaut Jombart
 ([thibautjombart\@gmail.com](thibautjombart@gmail.com)).
 
