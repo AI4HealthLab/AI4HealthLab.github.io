@@ -5,7 +5,7 @@ baseurl: ""
 
 title: AI4Health
 description:
-img: img/Lab_logo_v2.svg
+bigimg: img/Lab_logo_v2.svg
 
 # List of links in the navigation bar
 navbar-links:
