@@ -19,3 +19,8 @@ h1 {
 	padding-right: 80px;
 	padding-left: 80px;
 }
+
+.lab_logo {
+    height: 100px;  /* 设置固定高度 */
+    width: auto;    /* 宽度根据高度自动调整，保持比例 */
+}
