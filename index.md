@@ -16,11 +16,11 @@ let sections = [];
 let cx, cy, r1x, r1y, r2x, r2y, canvas;
 let hoveredIndex = -1;
 let w_width,w_height;
-let img;
+let img_logo;
 
 function preload() {
   // Load the image
-  img = loadImage('/img/Lab_logo_v2.svg');
+  img_logo = loadImage('/img/Lab_logo_v2.svg');
 }
 
 function setup() {
@@ -80,7 +80,8 @@ translate(0, -35);
   fill(255);
   textSize(20);
   //text("AI4Health", cx, cy);
-  image(img, cx, cy, 200, 100);
+  imageMode(CENTER); 
+  image(img_logo, cx, cy, 200, 100);
 }
 
 function mouseMoved() {
