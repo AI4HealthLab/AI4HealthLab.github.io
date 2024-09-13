@@ -3,9 +3,10 @@
 url: "http://AI4HealthLab.github.io"
 baseurl: ""
 
+bigimg: img/Lab_logo_v2.svg
 title: AI4Health
 description:
-bigimg: img/Lab_logo_v2.svg
+
 
 # List of links in the navigation bar
 navbar-links:
