@@ -80,7 +80,7 @@ translate(0, -35);
   fill(255);
   textSize(20);
   //text("AI4Health", cx, cy);
-  image(img, cx, cy, 100, 50);
+  image(img, cx, cy, 200, 100);
 }
 
 function mouseMoved() {
