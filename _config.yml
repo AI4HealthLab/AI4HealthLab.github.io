@@ -3,7 +3,7 @@
 url: "http://AI4HealthLab.github.io"
 baseurl: ""
 
-bigimg: img/Lab_logo_v2.svg
+bigimg: /img/Lab_logo_v2.svg
 title: AI4Health
 description:
 
