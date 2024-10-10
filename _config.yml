@@ -12,18 +12,18 @@ description:
 navbar-links:
   Home: ""
   Research:
-    - Computational Histopathology: "/pages/c_hist"
-    - Computational Neuroscience: "/pages/c_neru"
-    - Computational Microscopy: "/pages/c_micro"
-    - Multimodal Data Integration: "/pages/c_multimodal"
-    - Deep Learning Paradigms: "/pages/c_paradigms"
-    - Trustworthy AI for Healthcare: "/pages/c_trustAI"
-  Project: "/pages/c_funding"
-  People: "/pages/c_peoplenew"
-  Publication: "/pages/c_publication"
-  Events: "/pages/c_events"
-  Join Us: "/pages/c_join"
-  Contact: "/pages/c_contact"
+    - Computational Histopathology: "pages/c_hist"
+    - Computational Neuroscience: "pages/c_neru"
+    - Computational Microscopy: "pages/c_micro"
+    - Multimodal Data Integration: "pages/c_multimodal"
+    - Deep Learning Paradigms: "pages/c_paradigms"
+    - Trustworthy AI for Healthcare: "pages/c_trustAI"
+  Project: "pages/c_funding"
+  People: "pages/c_peoplenew"
+  Publication: "pages/c_publication"
+  Events: "pages/c_events"
+  Join Us: "pages/c_join"
+  Contact: "pages/c_contact"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
