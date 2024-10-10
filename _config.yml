@@ -12,18 +12,18 @@ description:
 navbar-links:
   Home: ""
   Research:
-    - Computational histopathology: "c_hist"
-    - Computational neuroscience: "c_neru"
-    - Computational microscopy: "c_micro"
-    - Multimodal data integration: "multimodal"
-    - Deep learning paradigms: "paradigms"
-    - Trustworthy AI for healthcare: "trustAI"
-  Project: "funding"
-  People: "peoplenew"
-  Publication: "publication"
-  Events: "events"
-  Join Us: "join"
-  Contact: "contact"
+    - Computational Histopathology: "/pages/c_hist"
+    - Computational Neuroscience: "/pages/c_neru"
+    - Computational Microscopy: "/pages/c_micro"
+    - Multimodal Data Integration: "/pages/c_multimodal"
+    - Deep Learning Paradigms: "/pages/c_paradigms"
+    - Trustworthy AI for Healthcare: "/pages/c_trustAI"
+  Project: "/pages/c_funding"
+  People: "/pages/c_peoplenew"
+  Publication: "/pages/c_publication"
+  Events: "/pages/c_events"
+  Join Us: "/pages/c_join"
+  Contact: "/pages/c_contact"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
@@ -52,7 +52,8 @@ share-links-active:
 #disqus: "reconhub-github-io"
 
 # Google Analytics ID
-google_analytics: "UA-83713279-1"
+google_analytics:
+#  "UA-83713279-1"
 
 # Output options (more information on Jekyll's site)
 timezone: "Australia/Brisbane"

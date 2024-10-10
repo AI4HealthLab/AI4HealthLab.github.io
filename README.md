@@ -22,7 +22,7 @@ Please address requests via email to Thibaut Jombart
 When the site launched, it contained the following pages, which can all be
 edited for content or deleted: [`index.md`](./index.md) (the landing page),
 [`people.md`](./people.md), [`projects.md`](./projects.md),
-[`resources.md`](./resources.md), [`contact.md`](./contact.md).
+[`resources.md`](./resources.md), [`contact.md`](pages/c_contact.md).
 
 ## Editing the navigation menus and the footer section
 
